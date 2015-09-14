@@ -1,3 +1,7 @@
+.body{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
 .panel-principal{
     background: #000000;
     height: 100%;
@@ -12,13 +16,11 @@
     padding: 10px;
 }
 .h2{
-    font-family: 'Open Sans Condensed', sans-serif;
-    color: white;
+    color: #ffffff;
     font-size: 64px;
 }
 .h4{
-    font-family: 'Open Sans Condensed', sans-serif;
-    color: white;
+    color: #ffffff;
     font-size: 36px;
 }
 
