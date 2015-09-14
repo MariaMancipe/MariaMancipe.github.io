@@ -10,13 +10,15 @@
 }
 .panel-principal.center.titulo-presentacion{
     padding: 10px;
+}
+.h2{
     font-family: 'Open Sans Condensed', sans-serif;
     color: white;
-}
-.panel-principal.center.titulo-presentacion.nombre{
     font-size: 64px;
 }
-.panel-principal.center.titulo-presentacion.slogan{
+.h4{
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: white;
     font-size: 36px;
 }
 
