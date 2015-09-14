@@ -8,3 +8,15 @@
     width: 60%;
     background: transparent;
 }
+.panel-principal.center.titulo-presentacion{
+    padding: 10px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: white;
+}
+.panel-principal.center.titulo-presentacion.nombre{
+    font-size: 64px;
+}
+.panel-principal.center.titulo-presentacion.slogan{
+    font-size: 36px;
+}
+
