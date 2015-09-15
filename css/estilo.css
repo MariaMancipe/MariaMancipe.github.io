@@ -16,19 +16,19 @@ body{
     width: 100%;
 }
 .panel-principal.center{
-    margin: auto;
+    padding-top: 70%;
+	margin: auto;
     width: 60%;
-    background: transparent;
 }
 .panel-principal.center.titulo-presentacion{
     padding: 10px;
 }
-h2{
+h1{
     color: #ffffff;
-    font-size: 64px;
+    font-size: 128 px;
 }
-h4{
+h3{
     color: #ffffff;
-    font-size: 36px;
+    font-size: 100 px;
 }
 
