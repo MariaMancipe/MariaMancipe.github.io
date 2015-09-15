@@ -1,5 +1,13 @@
-.body{
+
+a,
+a:focus,
+a:hover {
+  color: #fff;
+}
+
+body{
     font-family: 'Open Sans Condensed', sans-serif;
+	text-align: center;
 }
 
 .panel-principal{
