@@ -23,11 +23,11 @@ body{
 .panel-principal.center.titulo-presentacion{
     padding: 10px;
 }
-.h2{
+h2{
     color: #ffffff;
     font-size: 64px;
 }
-.h4{
+h4{
     color: #ffffff;
     font-size: 36px;
 }
