@@ -8,7 +8,6 @@ a:hover {
 body{
     font-family: 'Open Sans Condensed', sans-serif;
 	text-align: center;
-	margin: none;
 	height: 100%;
     width: 100%;
 	background-color: #000000;
@@ -21,11 +20,10 @@ body{
 }
 .panel-principal.center{
     width: 60%;
+	margin:auto;
 }
 .panel-principal.center.titulo-presentacion{
     padding: 10px;
-	margin-right: auto;
-	margin-left: auto;
 }
 h1{
     color: #ffffff;
