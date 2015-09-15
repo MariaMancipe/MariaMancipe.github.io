@@ -9,11 +9,12 @@ body{
     font-family: 'Open Sans Condensed', sans-serif;
 	text-align: center;
 	margin: none;
+	height: 100%;
+    width: 100%;
 }
 
 .panel-principal{
     background: #000000;
-	margin:auto;
     height: 100%;
     width: 100%;
 }
@@ -22,13 +23,15 @@ body{
 }
 .panel-principal.center.titulo-presentacion{
     padding: 10px;
+	margin-right: auto;
+	margin-left: auto;
 }
 h1{
     color: #ffffff;
-    font-size: 100 px;
+    font-size: 128 px;
 }
 h3{
     color: #ffffff;
-    font-size: 80 px;
+    font-size: 100 px;
 }
 
