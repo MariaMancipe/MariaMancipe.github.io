@@ -8,14 +8,67 @@ a:hover {
 html,
 body{
     height:100%;
-    background-color: #000000;
+    background-color: #424242;
+    font-family: 'Open Sans Condensed', sans-serif;
 }
 body{
     color: #fff;
     text-align: center;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+h1,h2,h4,table,thead,ul,p,a{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 24px;
+    color: white;
 }
 aside{
     width: 20%;
+}
+a:hover{
+    color: white;
+}
+.white{
+    color: white;
+}
+.resume{
+    margin-top: 3%;
+    margin-left: 13%;
+}
+.tit{
+    font-size: 30px;
+    color: white;
+}
+.titt{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 38px;
+    color: #00B6C0;
+}
+.res{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 27px;
+    color: whitesmoke;
+}
+.rosa{
+    color: #E572F1;
+}
+.tittt{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 42px;
+    color: whitesmoke;
+    margin-top: 60px;
+}
+.active{
+    color: #00B6C0;
+}
+ul,li,a{
+    color: #00B6C0;
+}
+
+.salmon{
+    color: #FF6F7B;
+}
+.amarillo{
+    color: #F8D900;
 }
 
 .site-wrapper{
@@ -24,6 +77,8 @@ aside{
     height: 100%;
     min-height: 100%;
     background-image: url("../images/06.jpg");
+    background-size: 100% 110%;
+
 }
 .site-wrapper-inner{
     display: table-cell;
@@ -34,10 +89,16 @@ aside{
     margin-left: auto;
 }
 
+.info{
+    width: 100%;
+    height: 100%;
+    min-height: 100%;
+}
+
 .inner{
-    padding: 30px;
+    padding: 50px;
 }
 
 .cover{
-    padding: 0 20px;
+    padding: 0 50px;
 }
