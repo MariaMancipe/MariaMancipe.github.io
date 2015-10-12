@@ -24,6 +24,10 @@ h1,h2,h4,table,thead,ul,p,a{
 aside{
     width: 20%;
 }
+.image{
+    width: 30px;
+    height: 30px;
+}
 a:hover{
     color: white;
 }
@@ -102,3 +106,5 @@ ul,li,a{
 .cover{
     padding: 0 50px;
 }
+
+
